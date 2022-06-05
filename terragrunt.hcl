@@ -12,7 +12,7 @@ inputs = {
     volterraCloudCredAzure = "sun-az-creds"
 
     azureRegion1           = "westus2"
-    azureRegion2           = "uksouth"
+    azureRegion2           = "eastus"
     azureRegion2_ar        = false
 
     # ssh key value
