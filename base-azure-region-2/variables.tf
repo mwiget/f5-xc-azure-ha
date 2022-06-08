@@ -13,10 +13,6 @@ variable "azureRegion2" {
   description = "target azure region"
 }
 
-variable "resourceGroup" {
-  description = "The name of the resource group in which the virtual networks are created"
-}
-
 variable "location" {
   description = "The location/region where the virtual networks are created. Changing this forces a new resource to be created."
   default     = "eastus"
